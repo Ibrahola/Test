@@ -1,0 +1,23 @@
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: green;
+    text-align: center;
+    color: white;
+}
+
+h1{
+    color: orange;
+}
+
+button {
+    text-transform: uppercase;
+    background: orange;
+    padding: 2px 20px;
+    box-shadow: 2px 2px 3px;
+    font-weight: bold;
+    border-radius: 2px;
+    width: 200px;
+    
+}
